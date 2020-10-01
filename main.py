@@ -132,7 +132,7 @@ def isStringFound(text,pattern):
         print('Pattern Not found in Text')
     print('number of comparisons=', comparisons)
 
-
+#main function
 def main():
     global marginTable
     #text="bacxybaabababaxbaacaabacxaba"
